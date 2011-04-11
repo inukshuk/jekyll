@@ -28,10 +28,10 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency('directory_watcher', [">= 1.1.1"])
   s.add_runtime_dependency('maruku', [">= 0.5.9"])
 
-  s.add_development_dependency('redgreen', [">= 4.2.1"])
-  s.add_development_dependency('shoulda', [">= 4.2.1"])
-  s.add_development_dependency('rr', [">= 4.2.1"])
-  s.add_development_dependency('cucumber', [">= 4.2.1"])
+  s.add_development_dependency('redgreen', [">= 1.2.2"])
+  s.add_development_dependency('shoulda', [">= 2.11.3"])
+  s.add_development_dependency('rr', [">= 1.0.2"])
+  s.add_development_dependency('cucumber', [">= 0.10.2"])
   s.add_development_dependency('RedCloth', [">= 4.2.1"])
   s.add_development_dependency('kramdown', [">= 0.12.0"])
 
